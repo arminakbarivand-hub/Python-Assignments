@@ -1,0 +1,8 @@
+n = input().lower()
+if n == space : print ("blue")
+elif n == mind : print ("yellow")
+elif n == reality : print ("red")
+elif n == power : print ("purple")
+elif n == time : print ("green")
+elif n == soul : print ("orange")
+else : print ("invalid input")
